@@ -5,7 +5,8 @@ public class MinCostClimbingStairs {
 
     static void main(String[] args) {
        int[] cost = {1,100,1,1,1,100,1,1,100,1};
-        System.out.println(solution(cost));
+        //System.out.println(solution(cost));
+        System.out.println(5%2);
     }
 
     public static int solution(int[] cost){
